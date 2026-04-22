@@ -2,6 +2,6 @@
 
 Este repositorio lo usaré de aprendizaje. Aquí documento cómo voy aprendiendo Java.
 
-# 2: Métodos de la clase.
+# 3 y 4: Constructor, getters y setters de la clase.
 
-Mi clase alumno tendrá de métodos saber el nombre del alumno y averiguar si ha suspendido o aprobado.
+Mi clase alumno tendrá de 2 constructores y todos sus getters y setters.
