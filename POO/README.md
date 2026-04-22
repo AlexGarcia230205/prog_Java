@@ -2,6 +2,6 @@
 
 Este repositorio lo usaré de aprendizaje. Aquí documento cómo voy aprendiendo Java.
 
-# 1: Atributos de la clase.
+# 2: Métodos de la clase.
 
-Mi clase alumno tendrá de atributos el nombre, apellido y como identificador único un id.
+Mi clase alumno tendrá de métodos saber el nombre del alumno y averiguar si ha suspendido o aprobado.
