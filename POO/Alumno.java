@@ -8,6 +8,17 @@ public class Alumno {
     String nombre;
     String apellido;
 
+    // Constructor por defecto
+
+    public Alumno(){}
+
+    // Constructor con parámetros
+
+    public Alumno(int id, String nombre, String apellido){
+        this.id = id;
+        this.nombre = nombre;
+        this.apellido = apellido;
+    }
 
     // Métodos
 
