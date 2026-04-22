@@ -49,7 +49,7 @@ public class Alumno {
     // Métodos
 
     public void mostrarNombre() {
-        System.out.println("Nombre: ");
+        System.out.println("Nombre: " + getNombre());
     }
 
     public void aprobadoOSuspenso(double nota) {
