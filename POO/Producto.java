@@ -5,12 +5,12 @@ public class Producto {
     // Atributos
 
     private String nombre;
-    private float precio;
+    private double precio;
     private int cantidad;
 
     // Constructor
 
-    public Producto(String nombre, float precio, int cantidad){
+    public Producto(String nombre, double precio, int cantidad){
         setNombre(nombre);
         setPrecio(precio);
         setCantidad(cantidad);
@@ -26,11 +26,11 @@ public class Producto {
         this.nombre = nombre;
     }
 
-    public float getPrecio() {
+    public double getPrecio() {
         return precio;
     }
 
-    public void setPrecio(float precio) {
+    public void setPrecio(double precio) {
         this.precio = precio;
     }
 

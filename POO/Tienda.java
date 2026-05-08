@@ -36,8 +36,6 @@ public class Tienda {
     // listarProductos
 
     public void listarProductos(){
-        System.out.println("--- Inventario de la tienda ---");
-
         // foreach para recorrer todos los productos que haya en la tienda
 
         for (Producto p : productos) {
