@@ -15,3 +15,17 @@ Su constructor que recibe 3 parámetros
 Los Getters and Setters para modificar y leer los atributos de la clase
 
 Un método para visualizar la clase en una sola línea.
+
+# 2. Clase tienda
+
+Mi clase tienda:
+
+String nombre, ArrayList producto
+
+Todos los atributos son privados. Encapsulamiento
+
+Su constructor que recibe 2 parámetros
+
+Los Getters and Setters para modificar y leer los atributos de la clase
+
+3 métodos: registrar, listar y buscar
