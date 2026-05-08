@@ -29,3 +29,7 @@ Su constructor que recibe 2 parámetros
 Los Getters and Setters para modificar y leer los atributos de la clase
 
 3 métodos: registrar, listar y buscar
+
+# 3. Clase Main
+
+Funcionamiento de todos los métodos usados anteriormente.
